@@ -1,0 +1,28 @@
+.header{
+    width: 100%;
+    background-color: aquamarine;
+    height: 100px;
+}
+.left{
+    width: 20%;
+    float: left;
+    height: 400px;
+    background-color: burlywood;
+}
+body{
+    margin: 0;
+}
+.right{
+    width: 80%;
+    float: left;
+    height: 400px;
+    background-color: rgb(47, 21, 107);
+}
+.footer{
+    height: 150px;
+    width: 100;
+    background-color: rgb(177, 81, 25);
+}
+.body{
+    height: 400px;
+}
